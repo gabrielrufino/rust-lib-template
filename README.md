@@ -1,1 +1,1 @@
-# rust-template
+# Rust lib template
